@@ -1,0 +1,9 @@
+# Phyton
+__pycache__/
+*.pyc
+.venv/
+
+# Docker volumes/logs
+data/
+log/
+.DS_Store
