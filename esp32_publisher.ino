@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // Configuration for WiFi
-const char* ssid = "MOVISTAR_CBB0";
-const char* pswd = "wnfNBsyJGdtBjEYu2L7D";
+const char* ssid = "***";
+const char* pswd = "***";
 
 // Configuration: MQTT Broker
 const char* mqtt_server = "192.168.1.37";
