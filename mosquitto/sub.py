@@ -5,7 +5,7 @@ paho_mqtt = True
 import paho.mqtt.client as mqtt
 
 # Configuration
-BROKER = "192.168.1.37"
+BROKER = "****"
 PORT = 1883
 TOPIC = "sensor/dht11"
 
