@@ -8,8 +8,8 @@ const char* ssid = "***";
 const char* pswd = "***";
 
 // Configuration: MQTT Broker
-const char* mqtt_server = "192.168.1.37";
-const int mqtt_port = 1883;
+const char* mqtt_server = "****";
+const int mqtt_port = ****;
 const char* mqtt_topic = "sensor/dht11"; // Fixed: Added semicolon
 
 #define DHTPIN 22
